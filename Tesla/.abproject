@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Tesla",
+  "ProjectGuid": "89566dd1-f89c-4cb4-a95d-59a593e72776",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Tesla",
+  "DisplayName": "Tesla",
+  "Author": "",
+  "Description": "Tesla",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{5b56434f-194c-4b9c-a9ec-ef63e5100d56}",
+  "WP8ProductID": "{67ec9ba0-527c-43ea-95fb-63a15da9785d}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Tesla",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
